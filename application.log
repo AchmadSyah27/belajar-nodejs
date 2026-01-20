@@ -1,0 +1,9 @@
+Hello ini akan ke kirim pada file application.log
+Error ini juga akan ke kirim pada file application.log
+┌───────────┬──────────────┐
+│ (index)   │ Values       │
+├───────────┼──────────────┤
+│ firstname │ 'andrian'    │
+│ lastname  │ 'soedjadi'   │
+│ nim       │ '1234567890' │
+└───────────┴──────────────┘
